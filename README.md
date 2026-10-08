@@ -1,10 +1,10 @@
-# ISO 27001 & EBIOS RM — Étude de cas sur la gouvernance de la sécurité de l'information
+# ISO 27001 et EBIOS RM - Étude de cas sur la gouvernance de la sécurité de l'information
 
 Une étude de cas pratique axée sur la gouvernance de la sécurité de l'information, l'évaluation des risques et la conformité à la norme ISO/IEC 27001:2022.
 
-> **Portfolio version:** les identifiants organisationnels et opérationnels de ce dépôt ont été anonymisés. Ce dépôt est destiné à des fins éducatives et de portfolio professionnel et ne contient pas de données clients ni d'identifiants de production.
+> **Note:** les identifiants organisationnels et opérationnels de ce dépôt ont été anonymisés. Ce dépôt est destiné à des fins éducatives et de portfolio professionnel et ne contient pas de données clients ni d'identifiants de production.
 
-## Objectives
+## Objectifs
 
 - Évaluer les risques liés à la sécurité de l'information à l'aide d'EBIOS Risk Manager (EBIOS RM).
 - Identifier les valeurs métier critiques et les actifs supports.
@@ -29,8 +29,8 @@ Une étude de cas pratique axée sur la gouvernance de la sécurité de l'inform
 
 ## structure
 
-01-risk-management/       Analyse des risques, registre des risques et plan de traitement
-02-iso27001/               SoA, liste de contrôle d'audit et actions correctives
+01-risk-management/      Analyse des risques, registre des risques et plan de traitement
+02-iso27001/              SoA, liste de contrôle d'audit et actions correctives
 03-security-policies/      Politiques de sécurité de l'information
 04-security-procedures/    Procédures de sécurité opérationnelles
 05-incident-response/      Plan de réponse aux incidents
